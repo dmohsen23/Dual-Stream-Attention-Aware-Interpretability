@@ -16,7 +16,7 @@ This repository implements a **Dual-Stream Attention-Aware Fusion** model that:
 
 ## ✨ Features
 
-- 🔍 **High Accuracy** on BUSI & Distal Myopathy datasets  
+- 🔍 **High Accuracy** on BUSI (https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset) & Distal Myopathy datasets  
 - 🧠 **Attention-Aware Fusion** for improved interpretability
 - 📊 **Functionally Grounded Metrics**: Sanity check, incremental deletion, coherence score
 
