@@ -18,7 +18,7 @@ This repository implements a **Dual-Stream Attention-Aware Fusion** model that:
 
 - 🔍 **High Accuracy** on BUSI & Distal Myopathy datasets  
 - 🧠 **Attention-Aware Fusion** for improved interpretability
-- 📊 **Functionally Grounded Metrics**: coherence score, incremental deletion
+- 📊 **Functionally Grounded Metrics**: Sanity check, incremental deletion, coherence score
 
 ---
 
